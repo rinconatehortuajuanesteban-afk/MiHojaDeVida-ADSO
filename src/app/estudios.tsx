@@ -25,7 +25,7 @@ export default function EstudiosScreen() {
     >
       <View style={styles.header}>
         <Text style={styles.headerLabel}>MI FORMACIÓN</Text>
-        <Text style={styles.headerTitle}>Estudios</Text>
+        <Text style={styles.headerTitle}>Mi formación académica</Text>
         <Text style={styles.headerDescription}>
           Mi preparación académica y crecimiento profesional.
         </Text>
