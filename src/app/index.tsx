@@ -56,6 +56,8 @@ export default function HomeScreen() {
         <Image
           source={require('@/assets/images/perfil.jpg')}
           style={styles.photo}
+          accessible
+          accessibilityLabel="Fotografía de perfil de Juan Esteban Rincon Atehortua"
         />
 
         <Text style={styles.name}>Juan Esteban</Text>
