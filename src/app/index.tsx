@@ -51,8 +51,7 @@ export default function HomeScreen() {
       showsVerticalScrollIndicator={false}
     >
       <View style={styles.header}>
-        <Text style={styles.headerLabel}>PORTAFOLIO PROFESIONAL</Text>
-
+       <Text style={styles.headerLabel}>MI PERFIL PROFESIONAL</Text>
         <Image
           source={require('@/assets/images/perfil.jpg')}
           style={styles.photo}
