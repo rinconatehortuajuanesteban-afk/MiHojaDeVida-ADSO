@@ -59,6 +59,33 @@ Iniciar el proyecto:
 npx expo start
 ```
 
+## Comandos útiles
+
+Verificar las dependencias compatibles con Expo:
+
+```bash
+npx expo install --check
+```
+
+Iniciar el proyecto limpiando la caché:
+
+```bash
+npx expo start --clear
+```
+
+Revisar los problemas de configuración:
+
+```bash
+npx expo-doctor
+```
+
+Consultar el estado de Git:
+
+```bash
+git status
+```
+
+
 ## Ejecución
 
 Escanear el código QR con Expo Go para abrir la aplicación en el dispositivo móvil.
